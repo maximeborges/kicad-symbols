@@ -216,6 +216,18 @@ K RF Power Amplifier
 F http://www.skyworksinc.com/uploads/documents/SE5004L_202393B.pdf
 $ENDCMP
 #
+$CMP SX1261
+D 150 MHz to 960 MHz Low Power Long Range Transceiver, spreading factor from 5 to 12, LoRA, QFN-24
+K low-power lora transceiver
+F https://www.semtech.com/uploads/documents/DS_SX1276-7-8-9_W_APP_V6.pdf
+$ENDCMP
+#
+$CMP SX1262
+D 150 MHz to 960 MHz Low Power Long Range Transceiver, spreading factor from 5 to 12, LoRA, QFN-24
+K low-power lora transceiver
+F https://www.semtech.com/uploads/documents/DS_SX1276-7-8-9_W_APP_V6.pdf
+$ENDCMP
+#
 $CMP SX1272
 D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 12, LoRA, QFN-28
 K low-power lora transceiver
