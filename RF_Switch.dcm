@@ -48,6 +48,12 @@ K rf spdt switch
 F http://www.skyworksinc.com/uploads/documents/AS179_92LF_200176H.pdf
 $ENDCMP
 #
+$CMP BGS12SN6
+D SP3T 100MHz-3GHz switch, 50 Ohm, TSNP-9-3
+K rf switch sp4t absorptive
+F https://www.infineon.com/dgdl/Infineon-BGS13S4N9-DS-v01_00-EN.pdf?fileId=5546d46262475fbe016248809d333d02
+$ENDCMP
+#
 $CMP HMC7992
 D SP4T 100MHz-6GHz absorptive switch, 50 Ohm, LFCSP-16
 K rf switch sp4t absorptive
@@ -148,6 +154,12 @@ $CMP MSWA2-50
 D SPDT DC-5.0GHz absorbative switch, 50 Ohm, QFN-12
 K RF SPDT switch
 F https://www.minicircuits.com/pdfs/MSWA2-50+.pdf
+$ENDCMP
+#
+$CMP SKY13587-378LF
+D SPDT DC-4.6GHz absorbative switch, 50 Ohm, XX112
+K RF SPDT switch
+F https://www.minicircuits.com/pdfs/KSWA-2-46+.pdf
 $ENDCMP
 #
 #End Doc Library
