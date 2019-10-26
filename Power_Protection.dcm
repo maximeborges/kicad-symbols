@@ -48,6 +48,12 @@ K common mode filter ESD protection
 F https://assets.nexperia.com/documents/data-sheet/IP3319CX6.pdf
 $ENDCMP
 #
+$CMP IP4234CZ6
+D Single USB 2.0 ESD protection to IEC 61000-4-2 level 4
+K ESD protection USB 2.0
+F https://assets.nexperia.com/documents/data-sheet/IP4234CZ6.pdf
+$ENDCMP
+#
 $CMP NUP2105L
 D Dual Line CAN Bus Protector, 24Vrwm
 K can esd protection suppression transient
